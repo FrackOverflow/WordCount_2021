@@ -2,14 +2,14 @@
 * Madison Pardy's WordCounter *
 ******************************/
 
-using System;
-using System.Collections.Generic;
-using System.IO;
-using System.Linq;
-using System.Text;
-
 namespace WordCount
 {
+    using System;
+    using System.Collections.Generic;
+    using System.IO;
+    using System.Linq;
+    using System.Text;
+
     class Program
     {
         static void Main(string[] args)

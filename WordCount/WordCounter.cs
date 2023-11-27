@@ -1,9 +1,9 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using System.Text.RegularExpressions;
-
-namespace WordCount
+﻿namespace WordCount
 {
+    using System.Collections;
+    using System.Collections.Generic;
+    using System.Text.RegularExpressions;
+
     /// <summary>
     /// Class <c>WordCounter</c> counts the words you feed it and keeps track of how many times a word has been seen in a dictionary. 
     /// It takes a set of stopwords to ignore and (optionally) a dictionary of contractions to treat as seperate words.
