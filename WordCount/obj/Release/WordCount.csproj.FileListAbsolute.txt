@@ -1,0 +1,7 @@
+C:\Users\KarmaThief\Desktop\Coding Test\WordCount\WordCount\bin\Release\WordCount.exe.config
+C:\Users\KarmaThief\Desktop\Coding Test\WordCount\WordCount\bin\Release\WordCount.exe
+C:\Users\KarmaThief\Desktop\Coding Test\WordCount\WordCount\bin\Release\WordCount.pdb
+C:\Users\KarmaThief\Desktop\Coding Test\WordCount\WordCount\obj\Release\WordCount.csproj.AssemblyReference.cache
+C:\Users\KarmaThief\Desktop\Coding Test\WordCount\WordCount\obj\Release\WordCount.csproj.CoreCompileInputs.cache
+C:\Users\KarmaThief\Desktop\Coding Test\WordCount\WordCount\obj\Release\WordCount.exe
+C:\Users\KarmaThief\Desktop\Coding Test\WordCount\WordCount\obj\Release\WordCount.pdb

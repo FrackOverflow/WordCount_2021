@@ -1,0 +1,6 @@
+C:\Users\KarmaThief\Desktop\Coding Test\WordCount\WordCount\bin\Debug\WordCount.exe.config
+C:\Users\KarmaThief\Desktop\Coding Test\WordCount\WordCount\bin\Debug\WordCount.exe
+C:\Users\KarmaThief\Desktop\Coding Test\WordCount\WordCount\bin\Debug\WordCount.pdb
+C:\Users\KarmaThief\Desktop\Coding Test\WordCount\WordCount\obj\Debug\WordCount.csproj.CoreCompileInputs.cache
+C:\Users\KarmaThief\Desktop\Coding Test\WordCount\WordCount\obj\Debug\WordCount.exe
+C:\Users\KarmaThief\Desktop\Coding Test\WordCount\WordCount\obj\Debug\WordCount.pdb
