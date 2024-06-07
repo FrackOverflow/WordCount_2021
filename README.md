@@ -1,5 +1,5 @@
 # WordCount_2021
-In 2021 I wrote this project to solve the classic problem of counting words in a text file. I was given the problem in an interview as a project to complete overnight.
+In 2021 I wrote this project to solve the classic problem of counting words in a text file. I was given the problem in an interview as a project to complete overnight. Below is the prompt I was given, along with the two text files "input.txt" and "stopwords.txt"
 
 ## Prompt
 
